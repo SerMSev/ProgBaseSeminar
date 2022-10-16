@@ -1,0 +1,15 @@
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.exe
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.deps.json
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.runtimeconfig.json
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.dll
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.pdb
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.csproj.AssemblyReference.cache
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.AssemblyInfoInputs.cache
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.AssemblyInfo.cs
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.csproj.CoreCompileInputs.cache
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.dll
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\refint\ConsoleApp_1.dll
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.pdb
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.genruntimeconfig.cache
+C:\Users\serms\Desktop\git\CS\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ref\ConsoleApp_1.dll

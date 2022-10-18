@@ -1,0 +1,15 @@
+C:\Users\serms\source\repos\CommonConsoleApp\bin\Debug\net6.0\CommonConsoleApp.exe
+C:\Users\serms\source\repos\CommonConsoleApp\bin\Debug\net6.0\CommonConsoleApp.deps.json
+C:\Users\serms\source\repos\CommonConsoleApp\bin\Debug\net6.0\CommonConsoleApp.runtimeconfig.json
+C:\Users\serms\source\repos\CommonConsoleApp\bin\Debug\net6.0\CommonConsoleApp.dll
+C:\Users\serms\source\repos\CommonConsoleApp\bin\Debug\net6.0\CommonConsoleApp.pdb
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\CommonConsoleApp.csproj.AssemblyReference.cache
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\CommonConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\CommonConsoleApp.AssemblyInfoInputs.cache
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\CommonConsoleApp.AssemblyInfo.cs
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\CommonConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\CommonConsoleApp.dll
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\refint\CommonConsoleApp.dll
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\CommonConsoleApp.pdb
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\CommonConsoleApp.genruntimeconfig.cache
+C:\Users\serms\source\repos\CommonConsoleApp\obj\Debug\net6.0\ref\CommonConsoleApp.dll
